@@ -1,2 +1,2 @@
 # bike-paths-data
-Data storage repository (also known as "I cannot afford S3 bucket")
+Data storage repository. Consists of data needed for bike-paths-analysis repo.
